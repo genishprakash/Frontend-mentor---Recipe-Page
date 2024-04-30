@@ -1,6 +1,12 @@
 # Food Recipe Page
 
-This project is a solution to the [Food Recipe Page challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) from Frontend Mentor. 
+This project is a solution to the [Food Recipe Page challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) from Frontend Mentor.
+
+## Deployment 
+
+The Food Recipe Page is deployed and accessible online. You can visit the live version of the project by following the link below:
+
+[Recipe Page ](https://frontend-mentor-recipe-page-three.vercel.app/)
 
 ## Overview
 
@@ -43,6 +49,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Your Name - [Genish Prakash ](https://www.linkedin.com/in/genish-prakash-064303210/)
+[Genish Prakash ](https://www.linkedin.com/in/genish-prakash-064303210/)
 
 

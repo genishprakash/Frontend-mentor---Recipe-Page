@@ -142,4 +142,7 @@ table{
     .mobileprev{
         display: block;
     }
+    .container{
+        border-radius: 0px;
+    }
 }
